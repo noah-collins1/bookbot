@@ -1,2 +1,3 @@
 # bookbot
-python text analysis program to analyze texts
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
